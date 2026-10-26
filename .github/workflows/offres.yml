@@ -1,0 +1,46 @@
+name: Mise à jour des offres
+
+# Tourne chaque matin en semaine à 6h53 UTC, soit 7h53 en France (8h53 en été),
+# après la collecte Notion de 7h05. Le bouton « Run workflow » de l'onglet
+# Actions permet aussi de le lancer à la main.
+#
+# ⚠️ Ce dépôt doit rester PUBLIC : sur un compte GitHub gratuit, les workflows
+# planifiés ne s'exécutent jamais dans un dépôt privé. C'est la raison d'être
+# de ce dépôt séparé. Il ne contient aucune clé : NOTION_TOKEN est un secret
+# chiffré, jamais écrit dans le dépôt ni dans les journaux.
+on:
+  schedule:
+    - cron: "53 6 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  offres:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Générer offres.json depuis Notion
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        run: node scripts/build-offres.mjs
+
+      - name: Publier si le fichier a changé
+        run: |
+          if git diff --quiet -- offres.json; then
+            echo "Aucun changement, rien à publier."
+            exit 0
+          fi
+          git config user.name "Veille 3iS"
+          git config user.email "actions@users.noreply.github.com"
+          git add offres.json
+          git commit -m "Offres du $(date +%d/%m/%Y)"
+          git push
