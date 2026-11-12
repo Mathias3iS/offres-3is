@@ -1,6 +1,23 @@
 {
-  "maj": "2026-11-11",
+  "maj": "2026-11-12",
   "offres": [
+    {
+      "id": "416b15ca3b35814d",
+      "titre": "Assistant·e de production — développement, tournages et post-production",
+      "entreprise": "Kazak Productions",
+      "ville": "Paris 19e (75)",
+      "region": "Région parisienne",
+      "filiere": [
+        "Production"
+      ],
+      "type": "stage",
+      "date": "2026-11-10",
+      "ajoutee": "2026-11-12",
+      "lien": "https://www.profilculture.com/annonce/stagiaire-assistant-production-501558.html",
+      "resume": "Stage de 6 mois conventionné dans une société de production de cinéma, du développement jusqu'à la livraison des films.\nGestion administrative et comptable des projets : suivi des pièces, classement, préparation des dossiers.\nLecture de scénarios et appui à la constitution des dossiers de financement.\nPréparation des tournages : déclarations préalables à l'embauche, contrats des techniciens, logistique et plannings.\nSuivi de la post-production jusqu'à la livraison. Début en décembre, 4,50 €/h et Navigo pris en charge à 100 %.",
+      "alerte": "⚠️ Date limite de candidature affichée au 27/11/2026 — envoie ta candidature cette semaine.",
+      "mail": "Objet : Candidature — stage assistant·e de production (6 mois, à partir de décembre)\n\nBonjour,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en filière Production, et je souhaite vous proposer ma candidature pour le stage d'assistant·e de production que vous avez publié.\n\n[Écris ici une phrase personnelle sur la société : un film qu'elle a produit et que tu as vu, une ligne éditoriale qui t'intéresse, une raison précise de vouloir travailler chez elle. C'est la seule partie du mail qui te distinguera des autres candidatures — ne la laisse pas vide.]\n\nMa formation m'a mis·e en situation sur toute la chaîne de production : montage et suivi de budgets, plans de travail et feuilles de service, contrats de cession et contrats de techniciens, déclarations préalables à l'embauche, et suivi des livrables jusqu'à la post-production. Je suis à l'aise avec le travail administratif précis que demande un dossier de financement, et je sais lire un scénario en repérant ce qui aura un coût au tournage.\n\nSi mon profil vous intéresse, j'aimerais aussi évoquer la possibilité de poursuivre en alternance à l'issue du stage, ou de transformer directement ce stage en contrat d'alternance. Concrètement, cela signifie une personne présente un an sur vos projets plutôt que six mois, pour un coût largement pris en charge par les dispositifs de financement de l'apprentissage, et un rythme école/entreprise que 3iS adapte à vos périodes de tournage. Je peux vous mettre en relation avec le service Relations Entreprises de l'école si vous souhaitez en parler.\n\nJe suis disponible à partir de [date] et joignable à tout moment pour un entretien. Vous trouverez mon CV en pièce jointe et mes travaux ici : [lien de ton portfolio].\n\nBien cordialement,\n[Prénom NOM] — [téléphone] — [email]"
+    },
     {
       "id": "415b15ca3b358157",
       "titre": "Stagiaire VFX — compositing et motion design",
@@ -257,6 +274,23 @@
       "mail": "Objet : Candidature - Nikon Messagerie - 21 et 22 novembre\n\nBonjour,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS Avignon, et je candidate au poste de [ingé son / scripte / chef électro / étalonneur·se — garde le bon].\n\nJe suis disponible les 21 et 22 novembre.\n\n[Une phrase à toi : ce qui t'attire dans le projet, ou ce que tu veux travailler sur ce tournage.]\n\nCôté expérience : [deux phrases sur un tournage où tu as tenu ce poste, et ton rôle exact]. [Si ingé son : précise ton matériel, ou dis que tu n'es pas équipé·e — l'annonce précise que ce n'est pas bloquant.]\n\nUne question pratique : le trajet depuis le sud est-il pris en charge, ou seulement les repas et l'hébergement ?\n\nMerci,\n\n[Prénom NOM] — [téléphone] — [email]"
     },
     {
+      "id": "416b15ca3b3581b2",
+      "titre": "Level designer — jeu de cyclisme (Pro Cycling Manager / Tour de France)",
+      "entreprise": "Cyanide",
+      "ville": "Nanterre (92)",
+      "region": "Région parisienne",
+      "filiere": [
+        "Jeu vidéo"
+      ],
+      "type": "stage",
+      "date": "2026-11-06",
+      "ajoutee": "2026-11-12",
+      "lien": "https://emploi.afjv.com/emploi-jeux-video/SCEP147-29148",
+      "resume": "Stage de 6 mois de level design dans le studio qui développe Pro Cycling Manager et le jeu officiel du Tour de France. À partir de janvier 2027, à Nanterre, 100 % sur site.\nReconstruction d'étapes et de courses cyclistes réelles (Tour de France, Vuelta, Paris-Roubaix) aux échelles 1/5 et 1/10 avec un outil interne au studio.\nIntégration, commit et test des étapes produites dans le moteur de jeu.\nMise à jour de la documentation de production.\nReporting régulier à l'équipe en réunion de production. Gratification légale, statut étudiant 2026-2027 et convention de stage exigés ; un test de niveau fait partie du recrutement.",
+      "alerte": "⚠️ Annonce rediffusée le 06/11/2026 (première parution le 14/10) — le poste peut déjà avoir avancé, candidate vite. Un test de level design est demandé pendant le recrutement : prévois du temps.",
+      "mail": "Objet : Candidature — stage level designer, jeu de cyclisme (6 mois, janvier 2027)\n\nBonjour,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en filière Jeu vidéo, et je candidate au stage de level designer sur vos jeux de cyclisme, à partir de janvier 2027.\n\n[Écris ici une phrase personnelle sur le studio : un de ses jeux auquel tu as joué et ce que tu y as remarqué comme joueur ou comme designer, ou ce qui t'intéresse dans la reconstitution d'étapes réelles. C'est la seule partie de ce mail que tu ne peux pas emprunter ailleurs.]\n\nCôté outils, je travaille sous Unity et Unreal, je suis à l'aise avec un éditeur de niveaux et un pipeline d'intégration, et j'ai l'habitude de commiter, tester et itérer sur mes propres niveaux jusqu'à ce qu'ils tiennent en jeu. La contrainte qui m'intéresse ici est particulière : reconstruire un parcours existant à l'échelle, en restant lisible et jouable — c'est un travail de documentation autant que de design, et c'est exactement ce que j'aime faire. [Si tu es cycliste ou suiveur de courses, dis-le ici en une ligne : c'est un vrai atout sur ce poste.]\n\nJ'ajoute une possibilité que le studio voudra peut-être étudier : celle d'une alternance. La personne reste un an sur la production au lieu de six mois, ce qui couvre un cycle de développement complet et évite de reformer quelqu'un en cours de route ; le coût pour le studio est largement pris en charge par les dispositifs de financement de l'apprentissage, et le rythme école/entreprise s'adapte à vos jalons de production. Le service Relations Entreprises de 3iS peut vous en détailler les modalités.\n\nJe suis disponible pour le test de niveau et pour un entretien à partir de [date]. Mes niveaux et projets sont visibles ici : [lien de ton portfolio].\n\nBien cordialement,\n[Prénom NOM] — [téléphone] — [email]"
+    },
+    {
       "id": "413b15ca3b3581ba",
       "titre": "Assistant·e de production — société de production de séries",
       "entreprise": "Five Dogs",
@@ -427,6 +461,23 @@
       "lien": "",
       "resume": "Stage de préproduction sur un long métrage, au tout début du projet. Missions : recherche de subventions et de financements (dossiers d'aides, partenaires), aide à la préparation (planning, budget), repérages et autorisations, casting et constitution de l'équipe, lien avec les prestataires, suivi des contrats et documents de production. Format hybride entre télétravail et Villeneuve-lès-Avignon. Candidatures centralisées et présélectionnées par le service Relations Entreprises de 3iS Avignon avant transmission à la production.",
       "alerte": "⚠️ Réservé aux étudiant·es de 2e année (période de stage 2A). Candidature via le service Relations Entreprises uniquement, pas de contact direct avec la production."
+    },
+    {
+      "id": "416b15ca3b35813c",
+      "titre": "Assistant·e de production — préparation et suivi de tournages",
+      "entreprise": "Olibrius",
+      "ville": "Paris (75)",
+      "region": "Région parisienne",
+      "filiere": [
+        "Production"
+      ],
+      "type": "stage",
+      "date": "2026-11-05",
+      "ajoutee": "2026-11-12",
+      "lien": "https://www.profilculture.com/annonce/assistant-production-501161.html",
+      "resume": "Stage d'assistant·e de production à Paris, début annoncé début 2027, 4,50 €/h.\nPréparation des tournages : repérages, plannings, feuilles de service, organisation des transports.\nPrésence sur les tournages en soutien à l'équipe de production et à la régie.\nSuivi du budget : contrats d'intermittents, factures, notes de frais.\nRédaction et classement des documents de production. Profil recherché : sortie d'école de cinéma, bonne bureautique, anglais, permis B apprécié.",
+      "alerte": "⚠️ La durée du stage n'est pas indiquée sur l'annonce — vérifie dès le premier échange qu'elle atteint bien 6 mois pour que la convention soit valable sur ton cursus.",
+      "mail": "Objet : Candidature — stage assistant·e de production (début 2027)\n\nBonjour,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en filière Production, et je vous écris au sujet du stage d'assistant·e de production que vous proposez pour le début de l'année 2027.\n\n[Écris ici une phrase personnelle sur la société : un projet qu'elle a produit, le type de films ou de contenus sur lesquels elle travaille, ce qui te donne envie d'entrer précisément chez elle. Cette phrase est la seule partie du mail que personne d'autre ne pourra écrire à ta place.]\n\nLa préparation de tournage est la partie du métier qui me plaît le plus : repérages, plan de travail, feuilles de service, transports et hébergements, puis être sur le plateau pour que tout ce qui a été prévu tienne. J'ai déjà tenu ces documents sur les tournages de l'école, et je suis à l'aise sur le suivi des contrats d'intermittents, des factures et des notes de frais. Je suis titulaire du permis B et je parle anglais [adapte si besoin].\n\nJ'aimerais aussi vous soumettre une autre hypothèse : celle d'une alternance plutôt que d'un stage. La personne reste un an sur vos tournages au lieu de quelques mois, le coût pour la structure est largement pris en charge par les dispositifs de financement de l'apprentissage, et le rythme école/entreprise s'adapte à vos périodes de préparation et de tournage. Je peux transmettre le contact du service Relations Entreprises de 3iS si vous voulez chiffrer précisément.\n\nJe suis disponible à partir de [date] pour échanger. CV en pièce jointe, et mes travaux sont visibles ici : [lien de ton portfolio].\n\nBien cordialement,\n[Prénom NOM] — [téléphone] — [email]"
     },
     {
       "id": "415b15ca3b35814b",
@@ -661,6 +712,23 @@
       "lien": "https://arsud-regionsud.com/offres-demploi/regisseur-hf",
       "resume": "Régie du lieu à la Chapelle des Italiens, salle de 140 places. Pendant le Festival, Le Parvis programme en partenariat avec le Théâtre du Train bleu. Étude des dossiers techniques des compagnies, préparation des implantations scéniques et du stockage des décors. Pendant l'exploitation, rôle de référent technique du lieu : sécurité, horaires, patchs entre chaque spectacle, encadrement des compagnies, accueil du public avec la billetterie. Organisation des plannings de montage et de démontage. 8 heures par jour : 2 jours de prémontage, 9 jours de montage compagnies, 18 jours d'exploitation, 2 jours de démontage. Prise de poste le jeudi 10 juin 2027. 3 200 € net, un repas par jour pris en charge, hébergement pouvant être pris en charge par le théâtre.",
       "alerte": "⚠️ Poste de régie confirmé, pas un poste d'assistant·e : expérience en gestion de lieu et d'équipe technique demandée, connaissance de la réglementation ERP et habilitation électrique BR1 en vigueur. Outils attendus : X32, Dlight, Qlab, AutoCAD, Excel. À viser plutôt en fin de cursus ou après diplôme. En contrepartie, 3 200 € net, un repas par jour et hébergement possible. Date limite au 15 décembre 2026, pour une prise de poste en juin 2027."
+    },
+    {
+      "id": "416b15ca3b358184",
+      "titre": "Régisseur·se de production — forum du festival Séries Mania",
+      "entreprise": "Séries Mania",
+      "ville": "Lille (59)",
+      "region": "Hauts-de-France",
+      "filiere": [
+        "Production"
+      ],
+      "type": "cdd",
+      "date": "2026-11-04",
+      "ajoutee": "2026-11-12",
+      "lien": "https://www.profilculture.com/annonce/regisseur-production-forum-501126.html",
+      "resume": "CDD de régie de production sur le forum professionnel du festival international de séries Séries Mania, à Lille. Début le 2 février 2027, week-end du 20-21 mars travaillé.\nSuivi du rétroplanning de production et participation aux réunions de production.\nCoordination des prestataires et des aménagements de sites avec les équipes éditoriale, communication et institute.\nIdentification des besoins techniques et matériels des lieux, montage, exploitation et démontage des salles.\nCoordination des événements de networking (cocktails, plénières, soirées) et logistique des lieux.\nPartie administrative : base de données prestataires et lieux, inventaire 2027, suivi du budget des résidences, classement post-événement. 2 550 € brut mensuel.",
+      "alerte": "⚠️ La durée du CDD n'est pas indiquée sur l'annonce : seuls la date de début (2 février 2027) et le festival (mars) le sont — demande la durée exacte avant de t'engager. Candidatures jusqu'au 18/12/2026. Anglais indispensable.",
+      "mail": "Objet : Candidature — régisseur·se de production du forum (CDD, février 2027)\n\nBonjour,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en filière Production, et je candidate au poste de régisseur·se de production du forum à partir du 2 février 2027.\n\n[Écris ici une phrase personnelle sur le festival : une édition que tu as suivie, une série découverte là-bas, ce que représente pour toi un forum professionnel de séries. Personne ne peut écrire cette phrase à ta place, et c'est elle qui fera la différence.]\n\nMa formation porte précisément sur ce que demande le poste : rétroplanning et plan de travail, coordination de prestataires, contrats de cession et plannings d'équipe, suivi de budget, et logistique de sites — montage, exploitation et démontage. J'ai tenu ces fonctions sur les événements et tournages de l'école, où il faut tenir un calendrier et des lieux en même temps. Je travaille en anglais [adapte selon ton niveau réel] et je suis à l'aise avec le rythme d'un événement.\n\nUne précision qui peut vous intéresser : ce poste peut aussi se construire en alternance. La personne reste un an sur le cycle complet du festival — préparation, édition, bilan et préparation de l'édition suivante — plutôt que sur un seul CDD, le coût pour l'association est largement pris en charge par les dispositifs de financement de l'apprentissage, et le rythme école/entreprise s'adapte au calendrier du festival, avec une présence continue sur les semaines critiques. Je peux vous mettre en relation avec le service Relations Entreprises de 3iS.\n\nJe suis disponible à partir de [date] et peux me déplacer à Lille pour un entretien. CV en pièce jointe, travaux ici : [lien de ton portfolio].\n\nBien cordialement,\n[Prénom NOM] — [téléphone] — [email]"
     },
     {
       "id": "415b15ca3b35816a",
@@ -1639,6 +1707,59 @@
       "mail": "Objet : Candidature en alternance — assistant·e son, post-production à l'image\n\nMadame, Monsieur,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en filière Son, et je candidate à l'alternance d'assistant·e son de votre studio.\n\n[Écris ici une ou deux phrases personnelles sur le studio : un film, une série ou une campagne sur laquelle tu l'as repéré, ou ce qui t'attire dans la post-production son à l'image plutôt qu'en musique. C'est la seule partie du mail qui te distinguera des autres candidatures — ne la laisse pas vide.]\n\nJe travaille quotidiennement sur Pro Tools : préparation et organisation de sessions, synchronisation à l'image, routing, montage et nettoyage de dialogues et de voix off, préparation des ambiances et des effets, puis exports, versions et éléments de livraison. [Cite ici deux projets sur lesquels tu as monté du dialogue ou assisté un mixage, et ce dont tu avais la charge.] Je sais qu'une session rangée et des fichiers vérifiés avant la séance font gagner du temps à l'ingénieur du son, et c'est ce soin que je veux apporter.\n\nL'alternance me permet d'être présent·e sur la durée et de monter en autonomie sur vos méthodes et vos chaînes de livraison, ce que l'annonce décrit précisément. Le coût est très largement pris en charge par les aides à l'apprentissage et par l'OPCO, et le rythme école/entreprise s'adapte à vos plannings de séances. Je peux vous transmettre les éléments administratifs.\n\nMon CV est en pièce jointe et mes travaux sonores ici : [lien de ton portfolio]. Je suis disponible à partir du [date].\n\n[Prénom NOM] — [téléphone] — [email]"
     },
     {
+      "id": "416b15ca3b35818e",
+      "titre": "Assistant·e enquêteur·rice — émission documentaire Arte « Voyage en cuisine »",
+      "entreprise": "Eléphant groupe",
+      "ville": "Paris (75)",
+      "region": "Région parisienne",
+      "filiere": [
+        "Production",
+        "Cinéma & Audiovisuel"
+      ],
+      "type": "stage",
+      "date": "2026-10-26",
+      "ajoutee": "2026-11-12",
+      "lien": "https://www.profilculture.com/annonce/assistant-enqueteur-rice-pour-voyage-cuisine-500590.html",
+      "resume": "Stage d'assistant·e enquêteur·rice sur la séquence « Goût du pays » d'une émission documentaire diffusée sur Arte. À Paris, début en janvier 2027.\nIdentification de profils d'expatriés inspirants pour les sujets de la séquence.\nPrise de contact et pré-entretiens avec les intervenants potentiels.\nPréparation des fiches de tournage transmises aux JRI.\nParticipation à la réflexion éditoriale sur le lien entre cuisine, exil et identité. 4,50 €/h.",
+      "alerte": "⚠️ La durée du stage n'est pas indiquée sur l'annonce — vérifie qu'elle atteint 6 mois avant de signer la convention.",
+      "mail": "Objet : Candidature — stage assistant·e enquêteur·rice, émission documentaire (janvier 2027)\n\nBonjour,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS, et je candidate au stage d'assistant·e enquêteur·rice sur votre séquence documentaire, à partir de janvier 2027.\n\n[Écris ici une phrase personnelle : un numéro de l'émission que tu as vu, un sujet de la séquence qui t'a marqué·e, ou ce qui t'intéresse dans le fait de raconter l'exil par la cuisine. C'est la seule partie du mail qui t'appartient vraiment — soigne-la.]\n\nL'enquête est la partie du documentaire que je veux apprendre de l'intérieur : trouver les bons intervenants, les appeler, comprendre en vingt minutes s'ils tiendront devant une caméra, puis écrire la fiche qui permettra au JRI de partir avec les bonnes questions et les bonnes images en tête. J'ai fait ce travail de recherche et de préparation sur les documentaires de l'école, et je connais la chaîne qui suit — tournage léger, dérushage, montage — ce qui m'aide à préparer des séquences réellement tournables.\n\nJe mentionne une autre possibilité : celle d'une alternance plutôt que d'un stage. La personne reste un an et suit une saison entière de l'émission, de l'enquête à la diffusion ; le coût pour la société est largement pris en charge par les dispositifs de financement de l'apprentissage, et le rythme école/entreprise s'adapte à vos périodes de tournage et de livraison. Le service Relations Entreprises de 3iS peut vous en expliquer le fonctionnement.\n\nJe suis disponible à partir de [date] pour un entretien. CV en pièce jointe, travaux ici : [lien de ton portfolio].\n\nBien cordialement,\n[Prénom NOM] — [téléphone] — [email]"
+    },
+    {
+      "id": "416b15ca3b35819e",
+      "titre": "Assistant·e de rédaction — émission Arte « Invitation au voyage »",
+      "entreprise": "Eléphant groupe",
+      "ville": "Paris 9e (75)",
+      "region": "Région parisienne",
+      "filiere": [
+        "Production",
+        "Cinéma & Audiovisuel"
+      ],
+      "type": "stage",
+      "date": "2026-10-26",
+      "ajoutee": "2026-11-12",
+      "lien": "https://www.profilculture.com/annonce/assistant-redaction-invitation-voyage-500584.html",
+      "resume": "Stage d'assistant·e de rédaction sur la rubrique « L'Histoire Inattendue » d'une émission quotidienne diffusée sur Arte. À Paris 9e, début en janvier 2027.\nEnquête sur les sujets : recherche d'intervenants et de destinations.\nSuivi des montages des sujets.\nApprentissage du pitch de sujet en réunion de rédaction.\nParticipation à la vie de la rédaction et aux missions transversales. 4,50 €/h.",
+      "alerte": "⚠️ La durée du stage n'est pas indiquée sur l'annonce — vérifie qu'elle atteint 6 mois avant de signer la convention.",
+      "mail": "Objet : Candidature — stage assistant·e de rédaction, émission quotidienne (janvier 2027)\n\nBonjour,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS, et je candidate au stage d'assistant·e de rédaction sur votre émission quotidienne, à partir de janvier 2027.\n\n[Écris ici une phrase personnelle : un sujet de la rubrique qui t'a marqué·e, une destination que l'émission a traitée et que tu connais, ou ce qui t'intéresse dans le format court documenté. Cette phrase est la seule partie du mail que tu ne peux pas recopier — c'est elle qui compte.]\n\nCe qui m'attire dans le poste, c'est la chaîne complète : trouver un sujet, le documenter, le défendre en réunion, puis le suivre jusqu'au montage. Je sais chercher des intervenants et vérifier une information avant de la proposer, et je connais le travail de montage qui suit — structure du sujet, rythme, choix des plans — ce qui aide à écrire des sujets qui se montent vraiment. J'écris vite et proprement, et je suis à l'aise dans le rythme d'une quotidienne.\n\nJe signale aussi une option qui peut vous intéresser : ce stage pourrait se construire en alternance. La personne reste un an sur la rédaction et finit par pitcher et suivre ses propres sujets, au lieu de partir quand elle commence à être autonome ; le coût pour la société est largement pris en charge par les dispositifs de financement de l'apprentissage, et le rythme école/entreprise s'adapte au calendrier de production. Le service Relations Entreprises de 3iS peut vous en donner le détail.\n\nJe suis disponible à partir de [date] pour un entretien. CV en pièce jointe, travaux ici : [lien de ton portfolio].\n\nBien cordialement,\n[Prénom NOM] — [téléphone] — [email]"
+    },
+    {
+      "id": "416b15ca3b358125",
+      "titre": "Assistant·e chef·fe de projet marketing et image de marque — plateforme de streaming",
+      "entreprise": "M6+ (Groupe M6)",
+      "ville": "Neuilly-sur-Seine (92)",
+      "region": "Région parisienne",
+      "filiere": [
+        "Autre",
+        "Cinéma & Audiovisuel"
+      ],
+      "type": "stage",
+      "date": "2026-10-26",
+      "ajoutee": "2026-11-12",
+      "lien": "https://www.profilculture.com/annonce/assistant-chef-projet-marketing-amp-image-marque-500551.html",
+      "resume": "Stage de 6 mois au marketing de la plateforme de streaming M6+, à partir du 4 janvier 2027.\nCoordination des lancements de programmes sur la plateforme avec le marketing et les équipes éditoriales.\nSuivi de l'iconographie des programmes et rédaction des briefs créatifs avec la direction artistique.\nContribution au branding et au wording de la marque.\nSEO/GEO et animation du blog M6+ ACTU.\nVeille sur le streaming et les médias.",
+      "mail": "Objet : Candidature — stage assistant·e chef·fe de projet marketing et image de marque (6 mois, janvier 2027)\n\nBonjour,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS, et je candidate au stage d'assistant·e chef·fe de projet marketing et image de marque sur la plateforme, à partir du 4 janvier 2027.\n\n[Écris ici une phrase personnelle sur la plateforme ou sur le groupe : un programme dont tu as suivi le lancement, une campagne qui t'a marqué·e, ce qui t'intéresse dans la façon dont une plateforme met ses contenus en avant. C'est la seule partie du mail qui ne ressemblera à aucune autre candidature.]\n\nJe viens de l'audiovisuel, et c'est de ce côté-là que je serai utile : je sais lire un programme avant de le promouvoir, repérer les images et les séquences qui le résument, écrire un brief créatif qu'une direction artistique peut exécuter, et suivre un rétroplanning de lancement avec des équipes éditoriales. J'ai l'habitude de travailler sur des contenus vidéo de bout en bout, ce qui aide à parler le même langage que les équipes de production et de post-production.\n\nJe me permets d'ajouter une piste : ce poste pourrait aussi se construire en alternance. La personne reste un an sur les lancements de la saison plutôt que six mois, ce qui permet de suivre des campagnes complètes jusqu'à leur bilan ; le coût pour l'entreprise est largement pris en charge par les dispositifs de financement de l'apprentissage, et le rythme école/entreprise s'adapte à votre calendrier de lancements. Le service Relations Entreprises de 3iS peut vous donner le détail.\n\nJe suis disponible à partir de [date] pour un entretien. CV en pièce jointe et travaux ici : [lien de ton portfolio].\n\nBien cordialement,\n[Prénom NOM] — [téléphone] — [email]"
+    },
+    {
       "id": "40fb15ca3b358148",
       "titre": "Assistant·e contenus fiction — ventes internationales et développement de séries",
       "entreprise": "Mediawan Rights",
@@ -1822,6 +1943,41 @@
       "resume": "Poste en plateau de production virtuelle (tournage sur écrans LED). Les missions : piloter le media serveur Watchout en tournage, encoder et retoucher les vidéos sous Adobe Media Encoder, intégrer et optimiser des scènes temps réel dans Unreal Engine 5 avec nDisplay puis les éditer en direct pendant les prises. S'y ajoutent la préparation de décors 3D temps réel pour les écrans (lookdev, éclairage, layout) et le support technique sur le plateau aux côtés des équipes caméra et lumière. L'annonce prévoit enfin une part de veille et de R&D sur les outils IA et les workflows hybrides IA / 2D / 3D.",
       "alerte": "⚠️ Durée non précisée dans l'annonce : elle parle d'un « stage évolutif » et d'« un stagiaire ou alternant capable à long terme », sans nombre de mois. À faire préciser dès le premier échange. Candidatures jusqu'au 1er décembre 2026, prise de fonction le 1er janvier 2027.",
       "mail": "Objet : Candidature — opérateur·rice en production virtuelle junior (alternance ou stage)\n\nBonjour,\n\nJe suis étudiant·e en [année] à 3iS, en filière VFX & Post-production, et votre offre d'opérateur·rice en production virtuelle junior correspond précisément à ce que je veux faire : le temps réel au service du tournage. Je serais disponible à partir de [date].\n\n[Écris ici, en deux ou trois phrases, ce que tu connais de leurs plateaux ou de leurs productions, et pourquoi la production virtuelle t'intéresse chez eux en particulier. Ne recopie pas l'annonce : raconte ce que tu es allé·e voir. C'est la seule partie du mail que personne d'autre ne peut écrire à ta place.]\n\nSur le plan technique, je travaille sous Unreal Engine 5 (scènes temps réel, lookdev, layout, éclairage), et en post-production sur Nuke pour le compositing et DaVinci Resolve pour l'étalonnage et les encodages de livraison. J'ai l'habitude de travailler en plateau avec les équipes caméra et lumière, et de tenir une machine en direct pendant les prises. Mes projets sont ici : [lien de ton portfolio].\n\nL'annonce évoque un stage ou une alternance : si le choix vous est ouvert, l'alternance est la formule la plus intéressante pour vous. Je reste un an sur vos plateaux au lieu de quelques mois, le temps d'être réellement autonome sur Watchout et nDisplay ; le coût pour l'entreprise est largement pris en charge par les aides à l'apprentissage et les OPCO, et le rythme école/entreprise s'adapte à vos périodes de tournage. Je peux vous transmettre le détail du dispositif avec notre service Relations Entreprises.\n\nJe reste à votre disposition pour un entretien, et je peux vous montrer mes scènes Unreal en visio.\n\nBien cordialement,\n\n[Prénom NOM] — [téléphone] — [email]"
+    },
+    {
+      "id": "416b15ca3b3581a0",
+      "titre": "Assistant·e comptable de production — cinéma et distribution",
+      "entreprise": "Special Touch Studio",
+      "ville": "Paris 10e (75)",
+      "region": "Région parisienne",
+      "filiere": [
+        "Production"
+      ],
+      "type": "cdd",
+      "date": "2026-10-23",
+      "ajoutee": "2026-11-12",
+      "lien": "https://www.profilculture.com/annonce/assistant-comptable-production-cinema-500504.html",
+      "resume": "CDD d'assistant·e comptable de production dans une société de production et de distribution de cinéma, à Paris 10e, début dès que possible.\nPréparation et suivi des conventions de financement (CNC, fonds régionaux, partenaires) et rassemblement des justificatifs.\nSuivi du coût des films et préparation de la clôture comptable.\nPréparation des variables de paie des productions et suivi des contrats d'auteurs.\nSuivi des fournisseurs, des échéances, des factures et des encaissements.\nSuivi administratif de l'activité de distribution. Rémunération selon profil et expérience.",
+      "alerte": "⚠️ La durée du CDD n'est pas indiquée sur l'annonce — demande-la dès le premier échange. Poste très administratif et comptable : à viser si cette partie du métier t'intéresse vraiment.",
+      "mail": "Objet : Candidature — assistant·e comptable de production cinéma (CDD)\n\nBonjour,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en filière Production, et je candidate au poste d'assistant·e comptable de production que vous avez publié.\n\n[Écris ici une phrase personnelle sur la société : un film de son catalogue, son travail de distribution, ce qui t'attire dans une structure qui produit et distribue à la fois. C'est la seule partie de ce mail que tu dois écrire toi-même, et c'est celle qu'on lira.]\n\nLa gestion financière d'un film est une partie de ma formation : plan de financement et dossiers CNC et fonds régionaux, suivi du coût du film, contrats de cession et contrats d'auteurs, variables de paie des équipes et pièces justificatives à rassembler dans les délais. J'ai l'habitude de tenir des tableaux de suivi rigoureux et de réclamer une facture manquante avant qu'elle ne bloque une clôture.\n\nUne possibilité que vous voudrez peut-être examiner : ce poste peut aussi se construire en alternance. La personne reste un an et couvre un cycle comptable complet, clôture incluse, plutôt que de partir au milieu ; le coût pour la société est largement pris en charge par les dispositifs de financement de l'apprentissage, et le rythme école/entreprise s'adapte à vos périodes de clôture et de livraison. Le service Relations Entreprises de 3iS peut vous en donner le détail chiffré.\n\nJe suis disponible à partir de [date] pour un entretien. CV en pièce jointe, travaux et documents de production ici : [lien de ton portfolio].\n\nBien cordialement,\n[Prénom NOM] — [téléphone] — [email]"
+    },
+    {
+      "id": "416b15ca3b3581a3",
+      "titre": "Assistant·e distribution digitale — chaînes YouTube, FAST et gestion des droits",
+      "entreprise": "Studio TF1 Distribution",
+      "ville": "Paris (75)",
+      "region": "Région parisienne",
+      "filiere": [
+        "Autre",
+        "VFX & Post-production"
+      ],
+      "type": "stage",
+      "date": "2026-10-23",
+      "ajoutee": "2026-11-12",
+      "lien": "https://www.profilculture.com/annonce/assistant-distribution-digitale-500500.html",
+      "resume": "Stage de distribution digitale au sein du pôle distribution d'un grand studio, à Paris, début le 1er janvier 2027.\nGestion des chaînes YouTube, FAST, Facebook et des snapshows.\nLancement de chaînes digitales : matériel promotionnel, programmation FAST, bannières sous Photoshop.\nGestion de Content ID, des conflits de droits et de l'anti-piratage.\nSuivi des traductions et des doublages.\nAcquisitions, archivage, métadonnées et inventaire des droits ; bêta-test d'outils d'IA. 4,50 €/h selon profil.",
+      "alerte": "⚠️ La durée du stage n'est pas indiquée sur l'annonce — vérifie qu'elle atteint 6 mois avant de signer la convention.",
+      "mail": "Objet : Candidature — stage assistant·e distribution digitale (janvier 2027)\n\nBonjour,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS, et je candidate au stage d'assistant·e distribution digitale à partir du 1er janvier 2027.\n\n[Écris ici une phrase personnelle sur le studio ou son catalogue : une chaîne digitale que tu suis, un programme dont tu as vu la seconde vie en ligne, ce qui t'intéresse dans l'exploitation d'un catalogue. Cette phrase est la seule que personne ne peut écrire pour toi.]\n\nCe poste touche à la chaîne technique que je maîtrise : livrables vidéo et formats d'export, versions et sous-titrages, métadonnées et archivage propre d'un catalogue. Je travaille sous DaVinci Resolve et Photoshop, je sais préparer des visuels et des bannières aux bons gabarits, et je comprends ce que recouvrent Content ID et une revendication de droits sur une plateforme. Le volet anti-piratage et gestion de droits m'intéresse justement parce qu'il demande de la précision autant que de la culture audiovisuelle.\n\nJe signale aussi une option : ce poste peut se construire en alternance. La personne reste un an et peut suivre le lancement d'une chaîne jusqu'à ses premiers résultats au lieu de partir en cours de route ; le coût pour l'entreprise est largement pris en charge par les dispositifs de financement de l'apprentissage, et le rythme école/entreprise s'adapte à vos échéances de programmation. Le service Relations Entreprises de 3iS peut vous en préciser les modalités.\n\nJe suis disponible à partir de [date] pour un entretien. CV en pièce jointe, montages et visuels ici : [lien de ton portfolio].\n\nBien cordialement,\n[Prénom NOM] — [téléphone] — [email]"
     },
     {
       "id": "409b15ca3b35819f",
@@ -2139,125 +2295,6 @@
       "resume": "Société de production audiovisuelle de Boulogne-Billancourt, pour son média Rambo TV pensé pour les réseaux sociaux.\nMontage de contenus courts destinés aux formats verticaux et aux réseaux.\nMise en place des prises de vue et cadrage sur les tournages de l'équipe.\nOutils attendus : Premiere Pro, After Effects, Photoshop ou CapCut.\nDébut prévu en novembre 2026, convention de stage obligatoire.",
       "alerte": "⚠️ L'annonce annonce un stage de 3 à 6 mois : la durée de 6 mois n'est pas garantie, à faire préciser dès le premier échange.",
       "mail": "Objet : Candidature — montage et cadre, Rambo TV\n\nMadame, Monsieur,\n\nJe m'appelle [Prénom NOM], étudiant·e en [année] à 3iS en cinéma et audiovisuel, et je vous écris au sujet de votre recherche d'un·e stagiaire montage et cadre pour Rambo TV.\n\n[Écris ici, de ta main, une phrase sur Rambo TV : un format, une vidéo ou un angle éditorial que tu as réellement regardé et qui te donne envie de rejoindre l'équipe. C'est la seule partie que personne ne peut écrire à ta place.]\n\nCôté image, je suis à l'aise avec la préparation d'un plan et le cadre en configuration légère ; je monte au quotidien sur Premiere Pro et je réalise de l'habillage simple sur After Effects. Vous trouverez mes travaux les plus représentatifs ici : [lien de ton portfolio].\n\nUne précision sur le cadre du poste : je peux effectuer cette mission en alternance plutôt qu'en stage. Je reste alors un an dans l'équipe au lieu de quelques mois, le coût pour l'entreprise est largement pris en charge par les aides à l'apprentissage, et le rythme école/entreprise s'adapte à vos périodes de production. Si un stage de 3 à 6 mois vous paraît court pour rentabiliser la formation, je serais ravi·e d'étudier cette option avec vous.\n\nJe suis disponible à partir du [date] et joignable à tout moment pour un échange.\n\n[Prénom NOM] — [téléphone] — [email]"
-    },
-    {
-      "id": "40cb15ca3b35812f",
-      "titre": "Assistant·e production et administration — pôle musiques actuelles et MAO",
-      "entreprise": "Cité de la Musique – Philharmonie de Paris",
-      "ville": "Paris 19e (75)",
-      "region": "Région parisienne",
-      "filiere": [
-        "Production"
-      ],
-      "type": "stage",
-      "date": "2026-10-21",
-      "ajoutee": "2026-11-02",
-      "lien": "https://www.profilculture.com/annonce/assistant-production-administration-500282.html",
-      "resume": "Assistanat de production et d'administration au pôle musiques actuelles et MAO d'une grande institution musicale parisienne.\nOrganisation des réunions avec les artistes et les technicien·nes intervenant·es, rédaction des fiches techniques.\nAccueil des publics en début d'atelier.\nTests de matériel MAO, suivi des licences logiciels et des plug-ins.\nComptes rendus de salons et veille sur l'IA. Stage de 6 mois à partir de décembre 2026 ou janvier 2027, temps plein ou partiel.",
-      "alerte": "⚠️ L'annonce précise que le stage ne comporte pas de création musicale : c'est un poste de production et d'administration d'ateliers, pas un poste artistique.",
-      "mail": "Objet : Candidature — stage assistant·e production et administration, pôle musiques actuelles (décembre 2026 ou janvier 2027)\n\nBonjour,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en Production, et je candidate au stage d'assistant·e production et administration ouvert au pôle musiques actuelles et MAO.\n\n[Écris ici une ou deux phrases sur la Cité de la Musique – Philharmonie de Paris : un concert, une exposition ou un atelier qui t'a marqué, ce qui t'intéresse dans la transmission autour des musiques actuelles. C'est la seule partie du mail que personne n'écrira à ta place.]\n\nLa coordination d'ateliers techniques est un terrain que je connais : à 3iS, j'ai organisé des sessions avec des intervenant·es, rédigé des fiches techniques et préparé des salles et du matériel avant l'arrivée des participant·es. Je suis à l'aise avec une chaîne de production musicale assistée par ordinateur et avec le suivi d'un parc de licences et de plug-ins, et j'ai l'habitude de rendre des comptes rendus utilisables après un salon ou une réunion.\n\nJe suis disponible dès décembre 2026 ou en janvier 2027, à temps plein comme à temps partiel. Si cela vous convient mieux, ce poste peut aussi se faire en alternance : je reste un an au lieu de six mois, ce qui couvre une saison d'ateliers complète, le coût est largement pris en charge par les aides à l'apprentissage et l'OPCO, et le rythme école/entreprise s'adapte à votre programmation. L'école peut vous en expliquer le montage.\n\nMon CV est joint, ainsi que [lien de ton portfolio]. Je reste disponible pour un échange.\n\n[Prénom NOM] — [téléphone] — [email]"
-    },
-    {
-      "id": "408b15ca3b3581fd",
-      "titre": "Assistant·e de production et petite régie — festival de musique baroque",
-      "entreprise": "Centre culturel de rencontre d'Ambronay",
-      "ville": "Ambronay (01)",
-      "region": "Auvergne-Rhône-Alpes",
-      "filiere": [
-        "Production"
-      ],
-      "type": "stage",
-      "date": "2026-10-21",
-      "ajoutee": "2026-10-29",
-      "lien": "https://www.profilculture.com/annonce/assistant-production-500291.html",
-      "resume": "Centre culturel de rencontre d'Ambronay : festival de musique baroque et résidences d'artistes.\nLogistique des résidences : voyages, hébergements, repas, accueil des équipes.\nAppui en petite régie lors des sorties de résidence et des concerts publics.\nAccueil des artistes et des équipes techniques, gestion des loges pendant le festival.\nStage de 6 mois, début le 5 avril 2027. Disponibilité soir et week-end demandée.",
-      "alerte": "⚠️ Permis B indispensable et véhicule fortement recommandé : Ambronay est un village mal desservi. Candidatures jusqu'au 30/11/2026. Le volet régie reste léger, l'essentiel du poste est logistique.",
-      "mail": "Objet : Candidature — stage production et régie, saison 2027 (début avril)\n\nBonjour,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en Production, et je candidate au stage d'assistant·e de production et petite régie du Centre culturel de rencontre d'Ambronay.\n\n[Écris ici une ou deux phrases sur Ambronay : un concert ou une édition du festival que tu as suivie, ou ce qui t'intéresse dans le modèle résidences + festival. C'est la seule partie du mail que personne n'écrira à ta place.]\n\nLa logistique d'accueil d'équipes artistiques fait partie de ce que ma formation m'a appris à tenir : plannings de résidence, réservations de transports et d'hébergements, feuilles de route, suivi des demandes de loges, et le travail avec les équipes techniques sur les sorties de résidence. Je suis à l'aise sur le pack Office, j'ai le permis B et je suis disponible en soirée et le week-end pendant les périodes de concerts.\n\nJe suis disponible pour les 6 mois à partir du 5 avril 2027. Si cela vous est utile, ce poste peut aussi se faire en alternance : je reste un an au CCR au lieu de six mois, ce qui couvre une saison entière et le festival, le coût est largement pris en charge par les aides à l'apprentissage et l'OPCO, et le rythme école/entreprise s'adapte à vos pics d'activité. L'école peut vous en expliquer le montage.\n\nMon CV est joint. Je reste disponible pour un échange par téléphone ou en visio.\n\n[Prénom NOM] — [téléphone] — [email]"
-    },
-    {
-      "id": "401b15ca3b3581a3",
-      "titre": "Assistant·e de post-production — montage, étalonnage, livraison",
-      "entreprise": "Prose On Pixels",
-      "ville": "Pantin (93)",
-      "region": "Région parisienne",
-      "filiere": [
-        "VFX & Post-production"
-      ],
-      "type": "stage",
-      "date": "2026-10-21",
-      "ajoutee": "2026-10-22",
-      "lien": "https://www.profilculture.com/annonce/assistant-post-production-500277.html",
-      "resume": "Studio de post-production. Participation à la prise de brief, étude de faisabilité des projets et réalisation des devis correspondants. Identification et réservation des talents : monteurs, étalonneurs, graphistes. Coordination des projets et suivi des plannings de livraison. Préparation des fichiers de validation puis des fichiers finaux. Environnement logiciel : Premiere Pro, Avid, DaVinci, After Effects et Flame.",
-      "alerte": "⚠️ La durée du stage n'est pas précisée dans l'annonce — à faire confirmer avant de signer une convention. Démarrage en janvier 2027.",
-      "mail": "Objet : Candidature — stage assistant·e de post-production (janvier 2027)\n\nMadame, Monsieur,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en filière VFX et post-production, et je candidate à votre stage d'assistant·e de post-production à partir de janvier 2027.\n\n[Écris ici une ou deux phrases sur le studio : un projet ou un type de travail que tu as vu chez eux, ce qui t'attire dans leur façon de travailler la post-production. C'est la seule partie du mail que le recruteur n'aura pas déjà lue ailleurs — ne la laisse pas vide.]\n\nCôté technique, je travaille le montage sur Premiere Pro et Avid, l'étalonnage sur DaVinci et le compositing sur After Effects et Nuke. J'ai l'habitude de la chaîne complète : conformation, gestion des médias et des proxys, exports de validation pour le client puis masters de livraison aux bons formats. C'est aussi la coordination qui m'intéresse ici : tenir un planning entre monteur, étalonneur et graphiste pour que la livraison tombe à la date prévue.\n\nJe suis disponible à partir du [date]. Si le rythme du studio le permet, je serais aussi ouvert·e à passer en alternance plutôt qu'en stage : je reste un an sur vos projets au lieu de six mois, le coût pour le studio est largement pris en charge, et le calendrier école/entreprise se cale sur vos périodes de charge.\n\nMon CV est en pièce jointe et mes travaux sont visibles ici : [lien de ton portfolio]. Je reste disponible pour un échange.\n\n[Prénom NOM] — [téléphone] — [email]"
-    },
-    {
-      "id": "401b15ca3b3581ab",
-      "titre": "Alternant·e communication et création de contenus vidéo",
-      "entreprise": "Coach in France",
-      "ville": "Malakoff (92) ou Vannes (56)",
-      "region": "Région parisienne",
-      "filiere": [
-        "Cinéma & Audiovisuel"
-      ],
-      "type": "alternance",
-      "date": "2026-10-21",
-      "ajoutee": "2026-10-22",
-      "lien": "https://www.profilculture.com/annonce/alternant-communication-creation-contenus-video-amp-developpement-commercial-500318.html",
-      "resume": "Organisme de formation et CFA spécialisé dans les métiers du sport. Volet audiovisuel : réalisation d'interviews d'apprentis, de formateurs et de dirigeants de clubs, organisation des tournages et reportages, cadrage, montage et sous-titrage, conception de nouveaux formats. Volet communication digitale : animation des réseaux sociaux, création de visuels et de campagnes, suivi des performances, mise à jour du site WordPress, rédaction d'articles et de newsletters. Volet commercial : identification de clubs partenaires et participation à la prospection. Démarrage dès que possible.",
-      "alerte": "⚠️ Deux lieux sont annoncés (Malakoff 92 et Vannes 56) — fais préciser le rattachement avant de postuler. Le poste mêle production vidéo et développement commercial, et la durée du contrat n'est pas indiquée. La structure est un organisme de formation du secteur sportif, pas un studio audiovisuel.",
-      "mail": "Objet : Candidature en alternance — communication et création de contenus vidéo\n\nMadame, Monsieur,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en filière Cinéma et audiovisuel, et je candidate à votre alternance en communication et création de contenus vidéo.\n\n[Écris ici une ou deux phrases sur la structure : ce que tu comprends de leur travail auprès des clubs et des apprentis, ou ton propre rapport au sport si tu en as un. C'est la seule partie du mail que le recruteur n'aura pas déjà lue ailleurs — ne la laisse pas vide.]\n\nSur la partie vidéo, je suis autonome de bout en bout : préparation et cadrage d'interviews, prise de son, tournage de reportages en conditions réelles, puis montage, sous-titrage et déclinaison en formats courts pour Instagram, LinkedIn et TikTok. Je sais travailler vite sur des contenus récurrents sans sacrifier l'image ni le son, et j'ai l'habitude de produire un format à partir d'un simple brief.\n\nL'alternance est le cadre que je recherche : je serais présent·e sur une année complète, avec un rythme école/entreprise qui s'organise autour de vos temps forts, et un coût largement pris en charge pour votre structure. Pourriez-vous me préciser si le poste est rattaché à Malakoff ou à Vannes ? Je suis disponible à partir du [date].\n\nMon CV est en pièce jointe et mes réalisations sont visibles ici : [lien de ton portfolio].\n\n[Prénom NOM] — [téléphone] — [email]"
-    },
-    {
-      "id": "401b15ca3b3581e4",
-      "titre": "Assistant·e acquisitions cinéma — lecture de scénarios et festivals",
-      "entreprise": "Charades",
-      "ville": "Paris 18e (75)",
-      "region": "Région parisienne",
-      "filiere": [
-        "Production"
-      ],
-      "type": "stage",
-      "date": "2026-10-21",
-      "ajoutee": "2026-10-22",
-      "lien": "https://www.profilculture.com/annonce/stage-acquisitions-cinema-500262.html",
-      "resume": "Société de ventes internationales et de production de films. Lecture de scénarios français et étrangers en anglais, puis rédaction de notes courtes sur le projet, son contexte de production et ses perspectives de distribution internationale. Visionnage de films en cours de post-production. Veille sur l'actualité des festivals (Cannes, Berlin, Toronto, Venise, Sundance) et des forums de coproduction, avec prise de contact auprès des producteurs et distributeurs. Suivi de l'activité de la société : festivals, marketing, sorties et films en production. Stage de 6 mois à temps plein.",
-      "alerte": "⚠️ La lecture de scénarios en anglais est au cœur du poste : l'annonce suppose un très bon niveau d'anglais écrit. Stage de janvier à fin juin 2027.",
-      "mail": "Objet : Candidature — stage acquisitions cinéma (janvier à juin 2027)\n\nMadame, Monsieur,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en filière Production, et je souhaite candidater à votre stage aux acquisitions pour la période de janvier à juin 2027.\n\n[Écris ici une ou deux phrases sur la société : un film de leur catalogue que tu as vu, une ligne éditoriale ou un marché qui t'intéresse chez eux. C'est la seule partie du mail que le recruteur n'aura pas déjà lue ailleurs — ne la laisse pas vide.]\n\nLa lecture de scénarios et le repérage de projets sont exactement ce que je veux travailler. En formation, j'ai rédigé des notes de lecture et des fiches de projet, suivi des plannings de développement et appris à lire un plan de financement ainsi que des contrats de cession de droits. Je lis et j'écris en anglais sans difficulté, et je suis l'actualité des festivals — [cite ici un ou deux festivals que tu suis vraiment, ou un film repéré en festival cette année].\n\nJe suis disponible sur toute la durée du stage, de janvier à fin juin 2027. Si la charge de travail le justifie au-delà, une alternance serait aussi possible de mon côté : un an de présence plutôt que six mois, un coût largement pris en charge pour la société, et un rythme école/entreprise organisable autour des marchés et des festivals.\n\nMon CV est en pièce jointe, avec [lien de ton portfolio] pour mes travaux écrits et audiovisuels. Je reste à votre disposition.\n\n[Prénom NOM] — [téléphone] — [email]"
-    },
-    {
-      "id": "401b15ca3b358165",
-      "titre": "Assistant·e son / post-production audio — studio de doublage",
-      "entreprise": "Sharly Dubbing Production",
-      "ville": "Paris 12e (75)",
-      "region": "Région parisienne",
-      "filiere": [
-        "Son"
-      ],
-      "type": "stage",
-      "date": "2026-10-21",
-      "ajoutee": "2026-10-22",
-      "lien": "https://www.profilculture.com/annonce/assistant-son-post-production-audio-500319.html",
-      "resume": "Studio de doublage. Préparation des sessions d'enregistrement, assistanat sur les séances de doublage, de voix off et de bruitage. Dérushage, nettoyage et débruitage des prises, synchronisation ADR, contrôle qualité audio avant livraison. Profil attendu : BTS Audiovisuel option Son ou école de son, maîtrise d'un DAW (Pro Tools, Fairlight ou Premiere) et des outils de restauration audio type iZotope RX. Stage de 6 mois ou plus, temps plein ou rythme aménagé.",
-      "alerte": "⚠️ Démarrage annoncé le 26 octobre 2026 — à contacter immédiatement. Bonne nouvelle : l'annonce accepte déjà un rythme école aménagé (3 jours / 2 jours), donc une bascule en alternance est envisageable.",
-      "mail": "Objet : Candidature — assistant·e son / post-production audio (stage 6 mois, disponible immédiatement)\n\nMadame, Monsieur,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en filière Son, et votre offre d'assistant·e son et post-production audio correspond exactement à ce que je cherche à approfondir.\n\n[Écris ici une ou deux phrases sur le studio : un doublage ou un projet sur lequel tu les as repérés, ce qui t'attire dans le travail de la voix en particulier. C'est la seule partie du mail que le recruteur n'aura pas déjà lue ailleurs — ne la laisse pas vide.]\n\nEn formation, j'ai travaillé la chaîne audio de la captation à la livraison : préparation de session et routing en studio, placement micro et conduite de console, dérushage, nettoyage et débruitage des prises sous iZotope RX, synchronisation ADR, puis mixage et contrôle des niveaux de livraison. Je suis opérationnel·le sur [Pro Tools / Fairlight / Premiere — garde ce que tu maîtrises vraiment].\n\nVotre annonce mentionne la possibilité d'un rythme aménagé 3 jours / 2 jours : dans ce cas, je serais très intéressé·e par une alternance plutôt qu'un stage. La personne reste un an sur vos sessions au lieu de six mois, le coût pour le studio est largement pris en charge, et le calendrier école/entreprise s'ajuste à vos plannings d'enregistrement.\n\nJe suis disponible à partir du [date], y compris pour le démarrage du 26 octobre. Mon CV est en pièce jointe et quelques travaux sonores sont écoutables ici : [lien de ton portfolio].\n\n[Prénom NOM] — [téléphone] — [email]"
-    },
-    {
-      "id": "401b15ca3b35816f",
-      "titre": "Assistant·e de production documentaire",
-      "entreprise": "AH! Production",
-      "ville": "Boulogne-Billancourt (92)",
-      "region": "Région parisienne",
-      "filiere": [
-        "Production"
-      ],
-      "type": "stage",
-      "date": "2026-10-21",
-      "ajoutee": "2026-10-22",
-      "lien": "https://www.profilculture.com/annonce/assistant-production-500327.html",
-      "resume": "Pôle documentaire d'un groupe de production audiovisuelle. Organisation des tournages : recherche de décors, autorisations de tournage, droits à l'image, logistique transport et hébergement. Rédaction des feuilles de service, suivi de la post-production, gestion des archives et des droits d'auteur. Préparation des contrats et des bons de commande. Outils attendus : Excel, Word, un logiciel de gestion de production (Xotis Media), Canva et un anglais professionnel. Stage de 6 mois à 35h.",
-      "alerte": "⚠️ Démarrage annoncé au 1er novembre 2026 — candidature à envoyer tout de suite. Les candidatures sont reçues jusqu'au 01/12/2026.",
-      "mail": "Objet : Candidature — assistant·e de production documentaire (stage 6 mois)\n\nMadame, Monsieur,\n\nJe suis [Prénom NOM], étudiant·e en [année] à 3iS en filière Production, et je vous écris au sujet de votre offre d'assistant·e de production documentaire.\n\n[Écris ici une ou deux phrases sur la structure : un documentaire de leur catalogue que tu as vu, un sujet qu'ils traitent et qui te parle, la raison pour laquelle leur pôle documentaire t'intéresse. C'est la seule partie du mail que le recruteur n'aura pas déjà lue ailleurs — ne la laisse pas vide.]\n\nMa formation m'a amené·e à travailler le suivi concret d'une production : feuilles de service et plannings de tournage, demandes d'autorisations et droits à l'image, suivi des contrats de cession et des bons de commande, logistique d'équipe et de déplacements. Je travaille Excel et Word au quotidien et je peux prendre en main rapidement un logiciel de gestion de production comme Xotis Media.\n\nJe suis disponible à partir du [date] et je peux me rendre à Boulogne-Billancourt sans difficulté. Si l'organisation du poste s'y prête, je serais aussi très intéressé·e par une poursuite en alternance : le rythme école/entreprise s'adapte à vos périodes de tournage, le coût est largement pris en charge, et cela vous permettrait de garder la même personne sur une année complète plutôt que sur six mois.\n\nVous trouverez mon CV en pièce jointe ainsi que mes travaux ici : [lien de ton portfolio]. Je reste disponible pour un échange.\n\n[Prénom NOM] — [téléphone] — [email]"
     }
   ]
 }
